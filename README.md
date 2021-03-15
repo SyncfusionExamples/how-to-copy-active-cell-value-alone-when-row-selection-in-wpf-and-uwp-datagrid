@@ -1,4 +1,4 @@
-# How to copy active cell value alone when row selection in wpf and uwp datagrid?
+# How to copy active cell value alone when row selection in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to copy active cell value alone when row selection in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
